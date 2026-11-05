@@ -54,7 +54,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onSelectPlayground }) => {
           </button>
 
           <a
-            href="https://github.com"
+            href="https://github.com/mohamed-abouzeid-h/LinkVigil"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-lg text-slate-400 hover:text-slate-200 bg-slate-800/30 hover:bg-slate-800 border border-slate-700/40 transition-colors"
